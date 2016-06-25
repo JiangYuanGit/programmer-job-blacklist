@@ -1,5 +1,5 @@
 # 白帽厂商黑名单
-## 欢迎star和提交厂商数据
+欢迎star和提交厂商数据
 
 > [起因](https://www.zhihu.com/question/47775182)
 
