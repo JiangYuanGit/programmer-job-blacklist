@@ -12,6 +12,8 @@ IT人员换工作请谨慎
     - [白帽事件](https://www.zhihu.com/question/47775182)
 * 异乡好居
     - [删代码](https://www.zhihu.com/question/46294596)
+* 西山居
+	- [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
 * 阿里安全部门
 
     - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
@@ -19,8 +21,7 @@ IT人员换工作请谨慎
 
 * 北京展程科技
 	- [就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者](https://www.zhihu.com/question/56175498)
-* 西山居
-	- [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
+
 
 > 欢迎大家star和提交厂商名单和原因
 
