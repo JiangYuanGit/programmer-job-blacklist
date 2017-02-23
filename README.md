@@ -1,4 +1,5 @@
-# 厂商黑名单
+# 厂商黑名单 
+IT人员换工作请谨慎
 
 > [起因](https://www.zhihu.com/question/47775182)
 
