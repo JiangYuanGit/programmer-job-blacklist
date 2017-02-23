@@ -18,7 +18,8 @@
   * [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
 * 丁香园
 	- [如何看待冯大辉（Fenng）从丁香园离职？](https://www.zhihu.com/question/48607258)
-
+* 百度无人车
+	- [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 4399
 	- [曹政（caoz）是不是被 4399 的蔡文胜的虚假承诺欺骗了？](https://www.zhihu.com/question/23552172)
 	- [如何看待蔡文胜把曹政给坑了这件事？](https://www.zhihu.com/question/23554339)
