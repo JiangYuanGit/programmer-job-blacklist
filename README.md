@@ -2,7 +2,7 @@
 
 
 
-我也只是看知乎的一家之言，背后的真相大家自己判断，我只是单纯的收藏一些知乎链接,不喜勿喷,欢迎大家关注我[微博](http://weibo.com/woniuppp)和提issues和发pr来参与贡献这个名单
+我也只是看知乎的一家之言，背后的真相大家自己判断，我只是单纯的收藏一些知乎链接,不喜勿喷,欢迎大家关注我[微博](http://weibo.com/woniuppp)和提[issues](https://github.com/shengxinjing/programmer-job-blacklist/issues)来参与贡献这个名单
 
 <br>
 只收集关于不尊重程序员和技术合伙人的，其他的就不要发pr了，IT合伙人不是只写好代码就行啊
