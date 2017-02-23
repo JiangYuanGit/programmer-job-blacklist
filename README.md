@@ -1,13 +1,14 @@
 # 厂商黑名单 
 
-只是收藏一些知乎链接，关于一些公司的某些不尊重程序员的行为，避免自己入坑
-IT人员当合伙人请谨慎啊
+> 只是收藏一些知乎链接，关于一些公司的某些不尊重程序员的行为，避免自己入坑,IT人员当合伙人请谨慎啊
 
 > [起因](https://www.zhihu.com/question/47775182)
 
 * 青云
   * [码农讨期权进行时！！！创业公司的期权，老板的空头支票？](http://www.weibo.com/ttarticle/p/show?id=2309403986279338497572)
   * [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
+* 丁香园
+	- [如何看待冯大辉（Fenng）从丁香园离职？](https://www.zhihu.com/question/48607258)
 * 世纪佳缘
     - [白帽事件](https://www.zhihu.com/question/47775182)
 * 异乡好居
@@ -23,7 +24,7 @@ IT人员当合伙人请谨慎啊
 	- [就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者](https://www.zhihu.com/question/56175498)
 
 
-### 当技术合伙人建议[来源自冯大辉的微博](http://weibo.com/2503738775/EwQXudLUG?from=page_1005052503738775_profile&wvr=6&mod=weibotime&type=comment)
+## 当技术合伙人建议[来源自冯大辉的微博](http://weibo.com/2503738775/EwRsIgeoH)
 
 
 1.看看你的期权和股权文件（如果有），怎么写的，然后找律师帮你看看。里面有没有什么问题。
