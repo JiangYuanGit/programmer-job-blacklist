@@ -14,12 +14,12 @@
 * 世纪佳缘
     - [白帽事件](https://www.zhihu.com/question/47775182)
 * 青云
-  * [码农讨期权进行时！！！创业公司的期权，老板的空头支票？](http://www.weibo.com/ttarticle/p/show?id=2309403986279338497572)
-  * [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
+    - [码农讨期权进行时！！！创业公司的期权，老板的空头支票？](http://www.weibo.com/ttarticle/p/show?id=2309403986279338497572)
+    - [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
 * 丁香园
-	- [如何看待冯大辉（Fenng）从丁香园离职？](https://www.zhihu.com/question/48607258)
+	  - [如何看待冯大辉（Fenng）从丁香园离职？](https://www.zhihu.com/question/48607258)
 * 百度无人车
-	- [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
+	  - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 4399
 	- [曹政（caoz）是不是被 4399 的蔡文胜的虚假承诺欺骗了？](https://www.zhihu.com/question/23552172)
 	- [如何看待蔡文胜把曹政给坑了这件事？](https://www.zhihu.com/question/23554339)
@@ -29,14 +29,22 @@
 * 异乡好居
     - [删代码](https://www.zhihu.com/question/46294596)
 * 西山居
-	- [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
+	  - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
 * 阿里安全部门
-
     - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
     - [月饼门开除程序员](https://www.zhihu.com/question/50600301)
-
 * 北京展程科技
-	- [就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者](https://www.zhihu.com/question/56175498)
+    - [就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者](https://www.zhihu.com/question/56175498)
+* 触控科技
+    - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
+
+
+### 有争议
+* 华为
+    - [华为清理34岁以上员工](https://www.zhihu.com/question/55618811)
+
+
+
 
 
 ## 当技术合伙人建议
@@ -65,3 +73,9 @@
 > 欢迎大家star和提交厂商名单和原因
 
 
+<<<<<<< HEAD
+=======
+### 选公司
+
+建议大家在选择公司的时候摸摸底子 http://tianyancha.com ，发现有问题直接问负责人省的吃哑巴亏。
+>>>>>>> a1a2255ab4a6d369c3f75ac7f4ddae04cde9b1d2
