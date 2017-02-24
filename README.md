@@ -28,13 +28,13 @@
     - [白帽事件](https://www.zhihu.com/question/47775182)
 
 * 西山居
-      - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
+    - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
 * 阿里安全部门
     - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
     - [月饼门开除程序员](https://www.zhihu.com/question/50600301)
 
 * 百度无人车
-      - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
+    - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 触控科技
     - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
 
@@ -45,20 +45,20 @@
     - [码农讨期权进行时！！！创业公司的期权，老板的空头支票？](http://www.weibo.com/ttarticle/p/show?id=2309403986279338497572)
     - [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
 * 衣格鹿
-	- [作为一个技术合伙人，如果碰到了这样的公司这样的事情，你该怎么办？](https://www.zhihu.com/question/38295860/answer/75732778)
+    - [作为一个技术合伙人，如果碰到了这样的公司这样的事情，你该怎么办？](https://www.zhihu.com/question/38295860/answer/75732778)
     - [被「技术合伙人」销毁删除代码数据、关停服务器，撕逼反咬是一种什么样的体验？](https://www.zhihu.com/question/38333196/answer/75901815)
 * 丁香园
-	  - [如何看待冯大辉（Fenng）从丁香园离职？](https://www.zhihu.com/question/48607258)
+    - [如何看待冯大辉（Fenng）从丁香园离职？](https://www.zhihu.com/question/48607258)
 * 4399
-	- [曹政（caoz）是不是被 4399 的蔡文胜的虚假承诺欺骗了？](https://www.zhihu.com/question/23552172)
-	- [如何看待蔡文胜把曹政给坑了这件事？](https://www.zhihu.com/question/23554339)
+    - [曹政（caoz）是不是被 4399 的蔡文胜的虚假承诺欺骗了？](https://www.zhihu.com/question/23552172)
+    - [如何看待蔡文胜把曹政给坑了这件事？](https://www.zhihu.com/question/23554339)
 * 55海淘
-	-[在55海淘工作是怎么样一种体验？](https://www.zhihu.com/question/43651618)
+    - [在55海淘工作是怎么样一种体验？](https://www.zhihu.com/question/43651618)
 * 异乡好居
     - [如何看待异乡好居老板娘控告程序员删代码？](https://www.zhihu.com/question/46294596)
     - [我为什么“明目张胆”地和异乡好居撕逼？因为我是千千万万普通程序员的一名](https://zhuanlan.zhihu.com/p/20907546)
 * 北京展程科技
-    - [就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者](https://www.zhihu.com/question/56175498)
+    - [就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者](http://mp.weixin.qq.com/s/C5aDa0pzoUGk6_4q-qKCaQ)
     - [如何评价《就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者》里面这位CEO的所作所为？](https://www.zhihu.com/question/56175498)
     - [对那个创业者的妻子提一个问题，一个建议](https://mp.weixin.qq.com/s?__biz=MzA3MjA4MDI5OQ==&mid=2651728497&idx=1&sn=4a44f4da1c8450aafdd59608d1ccfe97&key=ffe67a077c969a8bcd4e189116725132332291db2178c0be737bc6ebbe76b14b33eeeb9feb29c85e37e04b8914fc96f0b3df454d6d557560d886a43cbd6c43fbc9beade7732f6df78c8485a2f7d01aaf&ascene=0&uin=MTA1MTg0NzQ0MA%3D%3D&devicetype=iMac+MacBookPro8%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=s6mb9CuZGxkN8n8xyrkfgTaSA%2FlrAhiGOafJkPjKj5Hy0YaGkmuwxc5%2B1DGanVEN)
     - [作为除当事人外最有权力发言的人，谈谈《就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者》](https://mp.weixin.qq.com/s?__biz=MzUyMDAwOTUwMA==&mid=2247483654&idx=1&sn=9694290fbec136b4db8ca96aaaae1610&key=ce5474c1928dba09e4eff02c16454389d8599a9d326d5d4afb783846e1c1734b3712a9ae998194fa10745212d2542b2ecd067168a2b7b09826236d58b0930a59c0f525fc54e3aed6903ac50943b387d6&ascene=0&uin=MTA1MTg0NzQ0MA%3D%3D&devicetype=iMac+MacBookPro8%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=s6mb9CuZGxkN8n8xyrkfgTaSA%2FlrAhiGOafJkPjKj5Hy0YaGkmuwxc5%2B1DGanVEN)
