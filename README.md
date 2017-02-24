@@ -10,6 +10,7 @@
 谢谢[issues](https://github.com/shengxinjing/programmer-job-blacklist/issues/20)提醒
 
 首先，每一个程序猿，每一个公司都有黑点，但是如果把黑点放大了，黑名单就没存在的意义了。就拿这几个例子来吧。
+
 1. 世纪佳缘认为白帽子，是违法的
     * 虽然这件事是我怒开repo的[起因](https://www.zhihu.com/question/47775182)，但是他没有拖欠员工工资或不付工资
 2. 阿里的月饼事件，只是价值观上和我本人不符
