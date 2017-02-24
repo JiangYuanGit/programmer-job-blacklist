@@ -28,7 +28,7 @@
     - [白帽事件](https://www.zhihu.com/question/47775182)
 
 * 西山居
-      - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
+    - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
 * 阿里安全部门
     - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
     - [月饼门开除程序员](https://www.zhihu.com/question/50600301)
