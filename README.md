@@ -2,12 +2,24 @@
 
 
 
-我也只是看知乎的一家之言，背后的真相大家自己判断，我只是单纯的收藏一些知乎链接,不喜勿喷,欢迎大家关注我[微博](http://weibo.com/woniuppp)和提[issues](https://github.com/shengxinjing/programmer-job-blacklist/issues)来参与贡献这个名单
+我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接,不喜勿喷,欢迎大家关注我[微博](http://weibo.com/woniuppp)和提[issues](https://github.com/shengxinjing/programmer-job-blacklist/issues)来参与贡献这个名单
 
-<br>
-只收集关于不尊重程序员和技术合伙人的，其他的就不要发pr了，IT合伙人不是只写好代码就行啊
 
-开这个repo的[起因](https://www.zhihu.com/question/47775182)
+### 写在前面
+
+谢谢[issues](https://github.com/shengxinjing/programmer-job-blacklist/issues/20)提醒
+
+首先，每一个程序猿，每一个公司都有黑点，但是如果把黑点放大了，黑名单就没存在的意义了。就拿这几个例子来吧。
+1. 世纪佳缘认为白帽子，是违法的
+    * 虽然这件事是我怒开repo的[起因](https://www.zhihu.com/question/47775182)，但是他没有拖欠员工工资或不付工资
+2. 阿里的月饼事件，只是价值观上和我本人不符
+    * 但并没有拖欠员工工资或不付工资
+    * 阿里还是技术氛围很不错的公司，我也有很多好朋友在阿里
+3. 与创始人说的股份，那是个人争取的事
+    * 也没拖欠工资或不付工资
+    * 只是记住以后记得留个心眼，和合伙人不是只写代码就可以的
+
+
 
 ### 普通程序员
 
