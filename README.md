@@ -34,7 +34,7 @@
     - [月饼门开除程序员](https://www.zhihu.com/question/50600301)
 
 * 百度无人车
-      - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
+    - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 触控科技
     - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
 
@@ -45,15 +45,15 @@
     - [码农讨期权进行时！！！创业公司的期权，老板的空头支票？](http://www.weibo.com/ttarticle/p/show?id=2309403986279338497572)
     - [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
 * 衣格鹿
-	- [作为一个技术合伙人，如果碰到了这样的公司这样的事情，你该怎么办？](https://www.zhihu.com/question/38295860/answer/75732778)
+    - [作为一个技术合伙人，如果碰到了这样的公司这样的事情，你该怎么办？](https://www.zhihu.com/question/38295860/answer/75732778)
     - [被「技术合伙人」销毁删除代码数据、关停服务器，撕逼反咬是一种什么样的体验？](https://www.zhihu.com/question/38333196/answer/75901815)
 * 丁香园
-	  - [如何看待冯大辉（Fenng）从丁香园离职？](https://www.zhihu.com/question/48607258)
+    - [如何看待冯大辉（Fenng）从丁香园离职？](https://www.zhihu.com/question/48607258)
 * 4399
-	- [曹政（caoz）是不是被 4399 的蔡文胜的虚假承诺欺骗了？](https://www.zhihu.com/question/23552172)
-	- [如何看待蔡文胜把曹政给坑了这件事？](https://www.zhihu.com/question/23554339)
+    - [曹政（caoz）是不是被 4399 的蔡文胜的虚假承诺欺骗了？](https://www.zhihu.com/question/23552172)
+    - [如何看待蔡文胜把曹政给坑了这件事？](https://www.zhihu.com/question/23554339)
 * 55海淘
-	-[在55海淘工作是怎么样一种体验？](https://www.zhihu.com/question/43651618)
+    - [在55海淘工作是怎么样一种体验？](https://www.zhihu.com/question/43651618)
 * 异乡好居
     - [如何看待异乡好居老板娘控告程序员删代码？](https://www.zhihu.com/question/46294596)
     - [我为什么“明目张胆”地和异乡好居撕逼？因为我是千千万万普通程序员的一名](https://zhuanlan.zhihu.com/p/20907546)
