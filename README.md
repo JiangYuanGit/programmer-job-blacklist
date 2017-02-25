@@ -42,7 +42,6 @@
 
 
 * 青云
-    - [码农讨期权进行时！！！创业公司的期权，老板的空头支票？](http://www.weibo.com/ttarticle/p/show?id=2309403986279338497572)
     - [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
 * 衣格鹿
     - [作为一个技术合伙人，如果碰到了这样的公司这样的事情，你该怎么办？](https://www.zhihu.com/question/38295860/answer/75732778)
