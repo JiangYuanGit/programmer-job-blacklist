@@ -26,13 +26,11 @@
 
 * 世纪佳缘
     - [白帽事件](https://www.zhihu.com/question/47775182)
-
 * 西山居
     - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
 * 阿里安全部门
     - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
     - [月饼门开除程序员](https://www.zhihu.com/question/50600301)
-
 * 百度无人车
     - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 触控科技
