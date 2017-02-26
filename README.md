@@ -1,4 +1,4 @@
-# 厂商黑名单 
+# 厂商黑名单
 
 
 
@@ -35,6 +35,9 @@
     - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 触控科技
     - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
+* 华为
+    - [华为清理34岁以上员工](https://www.zhihu.com/question/55618811)
+    - [任正非回应华为清理老员工：华为不养吃白饭的人](http://www.williamlong.info/archives/4894.html)
 
 ### 技术合伙人
 
@@ -62,8 +65,7 @@
 
 
 ### 不确定的
-* 华为
-    - [华为清理34岁以上员工](https://www.zhihu.com/question/55618811)
+    待补充
 
 ### 选公司
 
@@ -83,5 +85,3 @@
 
 
 > 欢迎大家star和提交厂商名单和原因
-
-
