@@ -1,8 +1,8 @@
-# 厂商黑名单 
+# 厂商黑名单
 
 
 
-我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接,不喜勿喷,欢迎大家关注我[微博](http://weibo.com/woniuppp)和提[issues](https://github.com/shengxinjing/programmer-job-blacklist/issues)来参与维护这个名单
+我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提[issues](https://github.com/shengxinjing/programmer-job-blacklist/issues)来参与维护这个名单
 
 
 ### 写在前面
@@ -28,21 +28,23 @@
 
 
 
+
 ### 普通程序员
 
 * 世纪佳缘
     - [白帽事件](https://www.zhihu.com/question/47775182)
-
 * 西山居
     - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
 * 阿里安全部门
     - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
     - [月饼门开除程序员](https://www.zhihu.com/question/50600301)
-
 * 百度无人车
     - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 触控科技
     - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
+* 华为
+    - [华为清理34岁以上员工](https://www.zhihu.com/question/55618811)
+    - [任正非回应华为清理老员工：华为不养吃白饭的人](http://www.williamlong.info/archives/4894.html)
 
 ### 技术合伙人
 
@@ -70,8 +72,7 @@
 
 
 ### 不确定的
-* 华为
-    - [华为清理34岁以上员工](https://www.zhihu.com/question/55618811)
+    待补充
 
 ### 选公司
 
@@ -80,16 +81,14 @@
 
 
 ### 当技术合伙人建议
-* 选自[冯大辉的微博](http://weibo.com/1577826897/EwLWXoxtG) 只写代码和当合伙人，还是有很大差别的,我觉得上面的建议很中肯
+* 选自[冯大辉的微博](http://weibo.com/1577826897/EwLWXoxtG) 只写代码和当合伙人，还是有很大差别的，我觉得上面的建议很中肯
 
 ### 最后
 
-* 最后说一下心得，竟然还有希望github处理这个repo，原因是想维护github这份纯净，还把github被墙和我挂钩，我真是醉了,就像一群待宰的羔羊，心想着只要老实一点，宰的就是别人不是我一样
+* 最后说一下心得，竟然还有希望github处理这个repo，原因是想维护github这份纯净，还把github被墙和我挂钩，我真是醉了，就像一群待宰的羔羊，心想着只要老实一点，宰的就是别人不是我一样
 
 * 我只是记录一下自己看到过的事件，我自己下次换工作的时候防止才坑，仅此而已
 * 我也没有那么愤世嫉俗，比如我以后换工作，还是会考虑百度阿里的，但是会避免上面出现的坑，比如百度无人车我就不去啦，阿里的其他很多部门还是很棒的，希望到时候不会因为这个名单把我pass吧:joy:
 
 
 > 欢迎大家star和提交厂商名单和原因
-
-
