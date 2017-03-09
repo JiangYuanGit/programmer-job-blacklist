@@ -41,7 +41,8 @@
 * 华为
     - [华为清理 34 岁以上员工](https://www.zhihu.com/question/55618811)
     - [任正非回应华为清理老员工：华为不养吃白饭的人](http://www.williamlong.info/archives/4894.html)
-
+* 音悦台
+    - [你为什么从音悦台离职？](https://www.zhihu.com/question/22461542)
 ### 技术合伙人
 
 
