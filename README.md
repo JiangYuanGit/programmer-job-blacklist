@@ -66,8 +66,8 @@
     - [对那个创业者的妻子提一个问题，一个建议](https://mp.weixin.qq.com/s?__biz=MzA3MjA4MDI5OQ==&mid=2651728497&idx=1&sn=4a44f4da1c8450aafdd59608d1ccfe97&key=ffe67a077c969a8bcd4e189116725132332291db2178c0be737bc6ebbe76b14b33eeeb9feb29c85e37e04b8914fc96f0b3df454d6d557560d886a43cbd6c43fbc9beade7732f6df78c8485a2f7d01aaf&ascene=0&uin=MTA1MTg0NzQ0MA%3D%3D&devicetype=iMac+MacBookPro8%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=s6mb9CuZGxkN8n8xyrkfgTaSA%2FlrAhiGOafJkPjKj5Hy0YaGkmuwxc5%2B1DGanVEN)
     - [作为除当事人外最有权力发言的人，谈谈《就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者》](https://mp.weixin.qq.com/s?__biz=MzUyMDAwOTUwMA==&mid=2247483654&idx=1&sn=9694290fbec136b4db8ca96aaaae1610&key=ce5474c1928dba09e4eff02c16454389d8599a9d326d5d4afb783846e1c1734b3712a9ae998194fa10745212d2542b2ecd067168a2b7b09826236d58b0930a59c0f525fc54e3aed6903ac50943b387d6&ascene=0&uin=MTA1MTg0NzQ0MA%3D%3D&devicetype=iMac+MacBookPro8%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=s6mb9CuZGxkN8n8xyrkfgTaSA%2FlrAhiGOafJkPjKj5Hy0YaGkmuwxc5%2B1DGanVEN)
 * 乐曼多科技
+    - [如何评价成都乐曼多公司打人事件？](https://www.zhihu.com/question/56707020/answer/150245647)
     - [怎么看待《街篮》手游研发商，成都乐曼多科技近日发生的殴打程序员事件？](https://www.zhihu.com/question/56705233)
-
 
 ### 不确定的
     待补充
