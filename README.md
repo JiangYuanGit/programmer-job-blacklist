@@ -27,27 +27,27 @@
 
 ### 普通程序员
 
-#### 世纪佳缘
-[白帽事件](https://www.zhihu.com/question/47775182)
-#### 西山居
-[如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
-#### 阿里安全部门
-[月饼门开除程序员](https://www.zhihu.com/question/50608658)
-[月饼门开除程序员](https://www.zhihu.com/question/50600301)
-#### 百度无人车
-[如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
-#### 触控科技
-[如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
-#### 华为
-[华为清理 34 岁以上员工](https://www.zhihu.com/question/55618811)
-[任正非回应华为清理老员工：华为不养吃白饭的人](http://www.williamlong.info/archives/4894.html)
-#### 音悦台
-[你为什么从音悦台离职？](https://www.zhihu.com/question/22461542)
-#### 珠海时代互联
-[在珠海时代互联(优品科技)工作是怎样一番体验](https://www.zhihu.com/question/54987066)
-[第一次听说工资可以打八折](https://www.v2ex.com/t/348047#reply50)
+* 世纪佳缘
+    - [白帽事件](https://www.zhihu.com/question/47775182)
+* 西山居
+    - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
+* 阿里安全部门
+    - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
+    - [月饼门开除程序员](https://www.zhihu.com/question/50600301)
+* 百度无人车
+    - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
+* 触控科技
+    - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
+* 华为
+    - [华为清理 34 岁以上员工](https://www.zhihu.com/question/55618811)
+    - [任正非回应华为清理老员工：华为不养吃白饭的人](http://www.williamlong.info/archives/4894.html)
+* 音悦台
+    - [你为什么从音悦台离职？](https://www.zhihu.com/question/22461542)
+* 珠海时代互联
+    - [在珠海时代互联(优品科技)工作是怎样一番体验](https://www.zhihu.com/question/54987066)
+    - [第一次听说工资可以打八折](https://www.v2ex.com/t/348047#reply50)
 
-
+    
 ### 技术合伙人
 
 
