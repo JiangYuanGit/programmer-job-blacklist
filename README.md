@@ -69,7 +69,9 @@
 * 乐曼多科技
     - [如何评价成都乐曼多公司打人事件？](https://www.zhihu.com/question/56707020)
     - [怎么看待《街篮》手游研发商，成都乐曼多科技近日发生的殴打程序员事件？](https://www.zhihu.com/question/56705233)
-
+* 珠海时代互联
+    - [在珠海时代互联(优品科技)工作是怎样一番体验](https://www.zhihu.com/question/54987066)
+    - [第一次听说工资可以打八折](https://www.v2ex.com/t/348047#reply50)
 ### 不确定的
     待补充
 
