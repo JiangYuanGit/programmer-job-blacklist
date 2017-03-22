@@ -94,5 +94,4 @@
 * 我也没有那么愤世嫉俗，比如我以后换工作，还是会考虑百度阿里的，但是会避免上面出现的坑，比如百度无人车我就不去啦，阿里的其他很多部门还是很棒的，希望到时候不会因为这个名单把我 pass 吧:joy:
 
 > 求star，求打赏，求支持我继续把这个名单维护下去,谢谢
-
-![](http://7xjoq9.com1.z0.glb.clouddn.com/wx9.9.png)
+<img src="http://7xjoq9.com1.z0.glb.clouddn.com/wx9.9.png" width='200px' />
