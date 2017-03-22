@@ -95,4 +95,4 @@
 
 > 求star，求打赏，求支持我继续把这个名单维护下去,谢谢
 
-[](http://7xjoq9.com1.z0.glb.clouddn.com/weixin9.9.png)
+![](http://7xjoq9.com1.z0.glb.clouddn.com/weixin9.9.png)
