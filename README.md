@@ -46,7 +46,8 @@
 * 珠海时代互联
     - [在珠海时代互联(优品科技)工作是怎样一番体验](https://www.zhihu.com/question/54987066)
     - [第一次听说工资可以打八折](https://www.v2ex.com/t/348047#reply50)
-
+* 阿里钉钉
+    - [如何看待阿里「步数垫底罚站一周」](https://www.zhihu.com/question/57732499)
     
 ### 技术合伙人
 
