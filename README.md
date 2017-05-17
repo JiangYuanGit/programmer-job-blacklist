@@ -46,7 +46,10 @@
     - [第一次听说工资可以打八折](https://www.v2ex.com/t/348047#reply50)
 * 阿里钉钉
     - [如何看待阿里「步数垫底罚站一周」](https://www.zhihu.com/question/57732499)
-    
+* 4399
+    - [你为什么从 4399 离职？](https://www.zhihu.com/question/22048775)
+* 酷派
+    - [如何看待酷派在毕业入职前夕疑似解约 300 余名校招应届毕业生？](https://www.zhihu.com/question/59878776)        
 
 
 ### 技术合伙人
