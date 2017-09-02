@@ -50,7 +50,8 @@
     - [你为什么从 4399 离职？](https://www.zhihu.com/question/22048775)
 * 酷派
     - [如何看待酷派在毕业入职前夕疑似解约 300 余名校招应届毕业生？](https://www.zhihu.com/question/59878776)        
-
+* 明星衣橱
+    - [如何看待明星衣橱有钱搞VR试衣间，却拖欠员工工资达1年以上？](https://maimai.cn/article/topic?id=21179)
 
 ### 技术合伙人
 
