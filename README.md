@@ -70,7 +70,8 @@
 
 
 ### 不确定的
-    待补充
+* 神舟深圳总部
+    - [神舟电脑深圳总部是否常在校招之后出现大规模离职？为什么？如何评价？](http://www.zhihu.com/question/49016853?utm_source=qq&utm_medium=social)
 
 ### 选公司
 
