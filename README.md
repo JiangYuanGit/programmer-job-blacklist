@@ -88,7 +88,8 @@
     - [汉东官场算什么，我被创投圈“暗算”的经历，沙书记都架不住](http://weibo.com/ttarticle/p/show?id=2309404098747628943708)
 
 ### 不确定的
-    待补充
+* 神舟深圳总部
+    - [神舟电脑深圳总部是否常在校招之后出现大规模离职？为什么？如何评价？](http://www.zhihu.com/question/49016853?utm_source=qq&utm_medium=social)
 
 
 ### 选公司
