@@ -25,6 +25,8 @@
 
 ### 普通程序员
 
+* 上海碧华信息技术有限公司
+    - [Android开发者的艰难讨薪路程](https://juejin.im/post/59bb3de35188257e7a427a6d)
 * 世纪佳缘
     - [白帽事件](https://www.zhihu.com/question/47775182)
 * 西山居
