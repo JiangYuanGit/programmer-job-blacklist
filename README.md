@@ -53,7 +53,10 @@
 * 4399
     - [你为什么从 4399 离职？](https://www.zhihu.com/question/22048775)
 * 酷派
-    - [如何看待酷派在毕业入职前夕疑似解约 300 余名校招应届毕业生？](https://www.zhihu.com/question/59878776)        
+    - [如何看待酷派在毕业入职前夕疑似解约 300 余名校招应届毕业生？](https://www.zhihu.com/question/59878776)  
+* 蛋壳公寓
+    - [我在蛋壳公寓的打工记录](https://zhuanlan.zhihu.com/p/27831054)
+
 
 
 ### 技术合伙人
