@@ -1,7 +1,13 @@
-# 厂商黑名单
+# 程序员找工作黑名单
 
 :snail:我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) 来参与维护这个名单
 
+
+最近的事情 让我意识到 有些同行也是劣迹斑斑，需要记录一下 以后大家招聘注意
+
+
+### 程序员黑名单
+* (如何看待摩拜前端负责人小春(张耀春)疑似性骚扰女下属？)[https://www.zhihu.com/question/289146339?from=groupmessage&isappinstalled=0&utm_medium=social&utm_oi=581028265741783040&utm_source=wechat_session]
 
 ### 写在前面
 
