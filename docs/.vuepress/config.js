@@ -10,13 +10,57 @@ module.exports = {
     lastUpdated: '更新时间',
     nav: [
       // { text: 'Javascript', link: '/javascript/' },
+      { text: '黑名单', link: '/blacklist/' },      
+      // { text: '地点', items:[
+      //   {text:'北京',link:'xx'}
+      // ] },      
       { text: '法律', link: '/law/' },      
       // { text: 'React全家桶', link: '/react/' },
       { text: '工具', link: '/tools/' },
       { text: '成长', link: '/learn/' },
-      { text: '同行', link: '/colleague/' }
+      { text: '同行', link: '/colleague/' },
+      { text: 'Github', link: 'https://github.com/shengxinjing/programmer-job-blacklist' }
     ],
-    sidebar:[]
+    sidebar:{
+      '/blacklist/':[
+        {
+          title: '黑名单',
+          collapsable: false,
+          children: [
+            '',
+            '996',
+          ],
+        },
+      ],
+      '/law/':[
+        {
+          title: '法律',
+          collapsable: false,
+          children: [
+            '',
+          ],
+        },
+      ],
+      '/tools/':[
+        {
+          title: '工具和建议',
+          collapsable: false,
+          children: [
+            '',
+          ],
+        },
+      ],
+
+      '/colleague/':[
+        {
+          title: '同行',
+          collapsable: false,
+          children: [
+            '',
+          ],
+        },
+      ]
+    }
   }
 }
 
@@ -46,9 +90,6 @@ module.exports = {
 //             '2019',
 //             'mpvue-update',
 //             '',
-            
-            
-
 //           ],
 //         },
 //       ],

@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /logo.png
-actionText: React →
-actionLink: /react/
+# actionText: React →
+# actionLink: /react/
 locations: 北京
 features:
 - title: 黑名单
@@ -23,43 +23,11 @@ footer: MIT Licensed | Copyright © shengxinjing
 
 
 
-<!-- <pre>
-{{$site}}
-
-</pre>
-----
-
-<pre>
-{{$page}}
-
-</pre> -->
-:snail:我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) 来参与维护这个名单
-
-
-最近的事情 让我意识到 有些同行也是劣迹斑斑，需要记录一下 以后大家招聘注意
-
-
 ### 程序员黑名单
 * [如何看待摩拜前端负责人小春张耀春)疑似性骚扰女下属？](https://www.zhihu.com/question/289146339?from=groupmessage&isappinstalled=0&utm_medium=social&utm_oi=581028265741783040&utm_source=wechat_session)
 
-### 写在前面
 
-谢谢 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues/20) 提醒
 
-首先，每一个程序猿，每一个公司都有黑点，但是如果把黑点放大了，黑名单就没存在的意义了。就拿这几个例子来吧
-
-1. 世纪佳缘认为白帽子，是违法的
-    * 虽然这件事是我怒开 repo 的[起因](https://www.zhihu.com/question/47775182)，但是他没有拖欠员工工资或不付工资
-2. 阿里的月饼事件，只是价值观上和我本人不符
-    * 但并没有拖欠员工工资或不付工资
-    * 阿里还是技术氛围很不错的公司，我也有很多好朋友在阿里
-3. 与创始人说的股份，那是个人争取的事
-    * 也没拖欠工资或不付工资
-    * 只是记住以后记得留个心眼，和合伙人不是只写代码就可以的
-4. 华为清理 34 岁以上员工，也是按照合同裁员，给赔偿
-    * 大公司更新换代，裁员没有任何问题，不裁员的公司早晚倒闭
-    * 华为也没有拖欠工资
-    * 只是我个人觉得，因为这件事，不想去华为工作 仅此而已，害怕到了34就被干掉
 
 ### 普通程序员
 
@@ -153,7 +121,7 @@ footer: MIT Licensed | Copyright © shengxinjing
 * 我只是记录一下自己看到过的事件，我自己下次换工作的时候防止踩坑，仅此而已
 * 我也没有那么愤世嫉俗，比如我以后换工作，还是会考虑百度阿里的，但是会避免上面出现的坑，比如百度无人车我就不去啦，阿里的其他很多部门还是很棒的，希望到时候不会因为这个名单把我 pass 吧:joy:
 
-> 求star，支持我继续把这个名单维护下去,谢谢支持
+
 
 
 
