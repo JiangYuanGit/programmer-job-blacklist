@@ -6,11 +6,11 @@ actionLink: /react/
 locations: 北京
 features:
 - title: 黑名单
-  details: 有些明目张胆坑程序员的事情 不应该被忘记
+  details: 有些坑程序员的事情 不应该被忘记
   href: /blacklist/
 #   href:
 - title: 工具
-  details: 换工作之前，可能需要的工具
+  details: 换靠谱工作之前，可能需要的工具
   href: /tools/
 
 - title: 法律

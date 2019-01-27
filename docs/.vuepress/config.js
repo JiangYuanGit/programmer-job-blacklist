@@ -14,6 +14,7 @@ module.exports = {
       // { text: 'React全家桶', link: '/react/' },
       { text: '工具', link: '/tools/' },
       { text: '成长', link: '/learn/' },
+      { text: '同行', link: '/colleague/' }
     ],
     sidebar:[]
   }
