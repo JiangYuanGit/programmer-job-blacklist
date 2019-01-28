@@ -1,7 +1,26 @@
 <template>
   <div class="page">
+
+     <!-- <div  v-if="$page.frontmatter.list">
+
+      <div class="content">
+
+        <template v-for="c in company">
+          h
+          <h2>{{c.title}}</h2>
+          <ul>
+            <li v-for="href in c.hrefs">{{href.title}}</li>
+          </ul>
+        </template>
+       <pre>
+      {{$page|json}}
+            
+          </pre>
+      </div>
+   
+    </div>  -->
     <Content :custom="false"/>
-    <div class="page-edit">
+    <!-- <div class="page-edit">
       <div class="edit-link" v-if="editLink">
         <a :href="editLink" target="_blank" rel="noopener noreferrer">{{ editLinkText }}</a>
         <OutboundLink/>
@@ -10,7 +29,8 @@
         <span class="prefix">{{ lastUpdatedText }}: </span>
         <span class="time">{{ lastUpdated }}</span>
       </div>
-    </div>
+    </div> -->
+
     <div class="page-nav" v-if="prev || next">
       <p class="inner">
         <span v-if="prev" class="prev">
@@ -40,9 +60,16 @@ import { resolvePage, normalize, outboundRE, endingSlashRE } from './util'
 
 
 export default {
+  data(){
+    return{
+      company:[]
+      // descs:
+    }
+  },
   props: ['sidebarItems'],
   mounted(){
-
+    console.log(this.$page)
+    this.company = this.$page.frontmatter.company
     this.init(location.pathname)
 
     this.$router.afterEach(trans=>{

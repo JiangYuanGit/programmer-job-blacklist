@@ -2,6 +2,7 @@
   <div class="sidebar">
     <NavLinks/>
     <slot name="top"/>
+    <!-- <div>{{$page}}</div> -->
     <ul class="sidebar-links" v-if="items.length">
       <li v-for="(item, i) in items" :key="i">
         <SidebarGroup v-if="item.type === 'group'"

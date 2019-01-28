@@ -11,13 +11,13 @@ module.exports = {
     nav: [
       // { text: 'Javascript', link: '/javascript/' },
       { text: '黑名单', link: '/blacklist/' },      
-      // { text: '地点', items:[
+      // { text: '城市', items:[
       //   {text:'北京',link:'xx'}
       // ] },      
       { text: '法律', link: '/law/' },      
       // { text: 'React全家桶', link: '/react/' },
       { text: '工具', link: '/tools/' },
-      { text: '成长', link: '/learn/' },
+      // { text: '成长', link: '/learn/' },
       { text: '同行', link: '/colleague/' },
       { text: 'Github', link: 'https://github.com/shengxinjing/programmer-job-blacklist' }
     ],
@@ -28,7 +28,6 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            '996',
           ],
         },
       ],

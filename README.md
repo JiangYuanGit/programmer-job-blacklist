@@ -6,8 +6,6 @@
 最近的事情 让我意识到 有些同行也是劣迹斑斑，需要记录一下 以后大家招聘注意
 
 
-### 程序员黑名单
-* [如何看待摩拜前端负责人小春张耀春)疑似性骚扰女下属？](https://www.zhihu.com/question/289146339?from=groupmessage&isappinstalled=0&utm_medium=social&utm_oi=581028265741783040&utm_source=wechat_session)
 
 ### 写在前面
 
@@ -17,9 +15,7 @@
 
 1. 世纪佳缘认为白帽子，是违法的
     * 虽然这件事是我怒开 repo 的[起因](https://www.zhihu.com/question/47775182)，但是他没有拖欠员工工资或不付工资
-<!-- 2. 阿里的月饼事件，只是价值观上和我本人不符
-    * 但并没有拖欠员工工资或不付工资
-    * 阿里还是技术氛围很不错的公司，我也有很多好朋友在阿里 -->
+
 2. 与创始人说的股份，那是个人争取的事
     * 也没拖欠工资或不付工资
     * 只是记住以后记得留个心眼，和合伙人不是只写代码就可以的
@@ -29,9 +25,21 @@
     * 只是我个人觉得，因为这件事，不想去华为工作 仅此而已，害怕到了34就被干掉
 4. 有些事情，应该被记住
 
-----
+
+
+
+### 程序员黑名单
+* [如何看待摩拜前端负责人小春张耀春)疑似性骚扰女下属？](https://www.zhihu.com/question/289146339?from=groupmessage&isappinstalled=0&utm_medium=social&utm_oi=581028265741783040&utm_source=wechat_session)
 
 ### 普通程序员
+
+* 杭州有赞
+    - [如何看待“有赞”年会公开宣布996工作制？](https://www.zhihu.com/question/309428750)
+    - [有赞会得到法律的惩罚吗？](https://www.zhihu.com/question/310419862)
+    - [脉脉匿名区的有赞员工](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk2MDc3MzAsImlhdCI6MTU0ODY1NDIxOX0.JSAyjakN-V_ZBQfjKxOl3MZKBcV7uLHyPZ1N-1mKXJI)
+* 便利蜂
+    - [年底组织数学考试，考试不及格就开除。](https://www.zhihu.com/question/309428750)
+    - [脉脉匿名区的便利蜂](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk3MzA4MjAsImlhdCI6MTU0ODY1NDI3OH0.UwkUFUh0wXgox30vxMCYyiRZW1dhzgWZKExIC6PT0V4)
 
 * 上海碧华信息技术有限公司
     - [Android开发者的艰难讨薪路程](https://juejin.im/post/59bb3de35188257e7a427a6d)
@@ -39,12 +47,6 @@
     - [白帽事件](https://www.zhihu.com/question/47775182)
 * 西山居
     - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
-
-
-<!-- * 阿里安全部门（待删除）
-    - 月饼们离职的P9，又入职阿里了，所以这事像闹剧，可以删除了
-    - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
-    - [月饼门开除程序员](https://www.zhihu.com/question/50600301) -->
 
 * 百度无人车
     - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
