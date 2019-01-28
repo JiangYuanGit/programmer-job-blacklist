@@ -51,7 +51,7 @@
     - [有赞会得到法律的惩罚吗？](https://www.zhihu.com/question/310419862)
     - [脉脉匿名区的有赞员工](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk2MDc3MzAsImlhdCI6MTU0ODY1NDIxOX0.JSAyjakN-V_ZBQfjKxOl3MZKBcV7uLHyPZ1N-1mKXJI)
 * 便利蜂
-    - [年底组织数学考试，考试不及格就开除。](https://www.zhihu.com/question/309428750)
+    - [年底组织数学考试，考试不及格就开除。](https://zhuanlan.zhihu.com/p/55856617)
     - [脉脉匿名区的便利蜂](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk3MzA4MjAsImlhdCI6MTU0ODY1NDI3OH0.UwkUFUh0wXgox30vxMCYyiRZW1dhzgWZKExIC6PT0V4)
 
 * 上海碧华信息技术有限公司
