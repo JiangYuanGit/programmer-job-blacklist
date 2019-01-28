@@ -103,8 +103,9 @@ export default {
       this.isSidebarOpen = false
     })
 
-    
-    this.addBaidu()
+    if(location.hostname=="coder.shengxinjing.cn"){
+      this.addBaidu()
+    }
 
     
   },
