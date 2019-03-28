@@ -14,6 +14,8 @@ module.exports = {
       // { text: '城市', items:[
       //   {text:'北京',link:'xx'}
       // ] },      
+      { text: '996', link: '/996/' },      
+
       { text: '法律', link: '/law/' },      
       // { text: 'React全家桶', link: '/react/' },
       { text: '工具', link: '/tools/' },
@@ -34,6 +36,15 @@ module.exports = {
       '/law/':[
         {
           title: '法律',
+          collapsable: false,
+          children: [
+            '',
+          ],
+        },
+      ],
+      '/996/':[
+        {
+          title: '996',
           collapsable: false,
           children: [
             '',

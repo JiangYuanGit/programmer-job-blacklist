@@ -7,6 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
+    "start": "npm run dev",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "push": "npm run build && sh push.sh",
